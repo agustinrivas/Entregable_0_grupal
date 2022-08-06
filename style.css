@@ -2,5 +2,6 @@ body{
   background: blue
 }
 h1{
-  background: red
+  background: red;
+  border: black 1px solid;
 }
